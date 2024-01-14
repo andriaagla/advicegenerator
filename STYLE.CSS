@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
 *
 {
     margin: 0;
@@ -9,7 +10,8 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(58, 58, 78);}
+    background-color: rgb(58, 58, 78);
+    font-family: 'Oswald', sans-serif;}
 .card{
 background-color: rgb(59, 41, 41);
 max-width: 500px;
